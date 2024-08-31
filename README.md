@@ -1,4 +1,4 @@
 # code-demo
 This is my first Git Repository.
 <br>
-Author - Mahaboob Basha
+Author - Mahaboob Basha Pathan
